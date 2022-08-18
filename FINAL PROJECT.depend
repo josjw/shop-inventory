@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1576760351 source:d:\data\kuliah\materi\sem1\algoritma dan pemrograman\final project\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<time.h>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<sys/stat.h>
+	<limits>
+
